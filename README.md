@@ -1,5 +1,8 @@
 # The Beauty of Life / 故事坊
 
+![The Beauty of Life Cover](./assets/cover.png)
+
+
 **The Beauty of Life（故事坊）** 是一个面向长辈与家庭的 AI 生命故事记录产品。
 
 它希望通过温和的 AI 访谈、语音陪伴和回忆整理，帮助长辈把人生经历沉淀成可以被家人长期保存的自传、回忆录和家庭记忆档案。
