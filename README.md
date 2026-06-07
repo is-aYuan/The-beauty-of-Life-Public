@@ -31,7 +31,7 @@ Screenshots will be added here as the public showcase evolves.
 
 A product deck will be added here:
 
-<!-- [View Product Deck](./assets/deck/The-Beauty-of-Life-Product-Deck.pdf) -->
+[View Product Deck](./assets/deck/The-Beauty-of-Life-Product-Deck.pdf)
 
 ## Roadmap
 
